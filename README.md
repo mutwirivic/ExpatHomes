@@ -1,1 +1,2 @@
-# ExpatHomes
+# A-housing
+A housing solution for expatriates

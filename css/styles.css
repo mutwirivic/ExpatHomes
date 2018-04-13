@@ -1,0 +1,117 @@
+body{
+  font-family: 'Raleway', sans-serif;
+
+}
+.logo{
+  background-color: #F0F3F4;
+  height: 10vh;
+  /*width: 100vw;*/
+  padding-bottom: 2vh;
+  /*margin-left: 0vw;*/
+  color: black;
+
+    /*background-color:rgba(128, 128, 128,0);*/
+}
+#marquee{
+  font-size: 40px;
+  width: 80%;
+}
+.homeBackground{
+  background-image: url(../images/apartment1.jpg);
+  height: 160vh;
+ width: 105%;
+ margin-left: 0px;
+  color: white;
+}
+#location-search{
+  width: 40vw;
+  height: 6vh;
+  background-color: rgba(128,128,128,0.8);
+  border: none;
+  outline:none;
+  border-radius: 3px;
+  color: white;
+  font-size: 120%;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#logoImage{
+
+ height: 18vh;
+ width: 13vw;
+}
+#logoImage2{
+
+ height: 18vh;
+ width: 13vw;
+}
+#signUpForm{
+  display: none;
+}
+#signInForm{
+  display: none;
+}
+.form{
+  padding-left: 2%;
+  padding-top: 2%;
+  background-color:rgba(128, 128, 128,0.7);
+  border: none;
+  outline:none;
+  border-radius: 3px;
+
+}
+.input{
+  color: black;
+}
+.btn{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-right: 2vw;
+}
+#company-name{
+  font-size: 70px;
+}
+.footer{
+  background-color: #F0F3F4;
+  height: 30vh;
+  width: 100%;
+}
+
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#quote{
+  margin-top: 50vh;
+  font-size: 100px;
+  padding-left: 2%;
+  padding-top: 2%;
+  background-color:rgba(128, 128, 128,0.4);
+  border: none;
+  outline:none;
+  border-radius: 3px;
+  width: 100%;
+}
+#logo-show{
+  background-color:rgba(128, 128, 128,0.2);
+
+}
+#password-mismatch{
+  display: none;
+  color: red;
+}
+#searchBtn{
+  margin-top: 2vh;
+
+}
+#social-media{
+  height: 70%;
+}
+.container-fluid{
+  width:100%;
+  margin-left: 0.0vw;
+}
